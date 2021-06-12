@@ -83,6 +83,7 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
+                <th><a href="/post/create" >Add New Column</a></th>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
